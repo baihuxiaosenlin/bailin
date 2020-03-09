@@ -5,4 +5,5 @@ public class Test1 {
     int a =10;
     boolean boo =false;
     boolean boo2 = false;
+    boolean v3 = false;
 }
